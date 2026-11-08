@@ -17,7 +17,7 @@ Created a small IT organisation to work with:
 
 ![Agents](screenshots/01a-agents.png)
 ![Security group](screenshots/01d-security-group.png)
-![Ticket fields](screenshots/01e-ticket-fields.png)
+![Ticket categories](screenshots/01e-ticket-categories.png)
 
 ## 2. Ticket templates
 Built templates for the two most repetitive request types so common fields fill in with one click.
